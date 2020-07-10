@@ -1,0 +1,11 @@
+{
+  "name": "js-algo",
+  "version": "1.0.0",
+  "description": "algorithms in javascript",
+  "main": "src/bubble-sort.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dushantha",
+  "license": "ISC"
+}
