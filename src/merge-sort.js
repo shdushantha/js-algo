@@ -28,7 +28,7 @@ const doMergeSort = (array) => {
 
 console.log(doMergeSort([5,9,1,3,3,9,-1]));
 
-//console.log(mergeSort([5,-1],[-1]));
+
 
 
 
